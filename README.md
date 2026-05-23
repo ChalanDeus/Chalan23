@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hola, soy Ernesto Chalan
 
-<!--
-**Chalan23/Chalan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Programación en Duoc UC  
+🔐 Futuro Ingeniero en Ciberseguridad  
+💻 Desarrollador Python y Java  
+☁️ Entusiasta de AWS, Linux y Backend
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+- Python
+- Java
+- AWS
+- Linux
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📚 Actualmente Aprendiendo
+
+- Desarrollo Backend
+- Microservicios
+- Ciberseguridad
+- Computación en la Nube
+- Ingeniería de Software
+- APIs REST
+
+---
+
+## 🛠️ Proyectos
+
+- Scripts de Automatización en Python
+- Microservicios en Java
+- APIs Backend
+
+---
+
+## 🌐 Portafolio
+
+- Sitio Web: https://bychalanxweb.netlify.app/
+
+---
+
+## 🎯 Objetivos
+
+- Convertirme en Ingeniero en Ciberseguridad
+- Mejorar mis habilidades en Desarrollo Backend
+- Crear proyectos del mundo real
+- Aprender tecnologías Cloud avanzadas
