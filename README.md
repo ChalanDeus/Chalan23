@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ernesto Chalan
+# 👋 Hola, soy Ernesto Vilches Chalan
 
 🎓 Estudiante de Programación en Duoc UC  
 🔐 Futuro Ingeniero en Ciberseguridad  
