@@ -1,4 +1,3 @@
-<img width="601" height="601" alt="cybersecurity-awareness-professional-certification-" src="https://github.com/user-attachments/assets/aca1c947-d615-48c6-b209-993e60986dc7" />
 # 👋 Hola, soy Ernesto Vilches Chalan
 
 🎓 Estudiante de Programación en Duoc UC  
