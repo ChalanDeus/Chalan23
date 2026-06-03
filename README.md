@@ -57,4 +57,4 @@
 
 ## 🏆 Certificaciones
 ### CertiProf Cybersecurity Awareness Professional (CAPC)
-<img width="601" height="601" alt="cybersecurity-awareness-professional-certification-" src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" />
+<img width="220" alt="CAPC Badge" src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" />
