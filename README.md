@@ -56,5 +56,15 @@
 ---
 
 ## 🏆 Certificaciones
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" width="170" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="URL_DE_TU_BADGE_CISCO" width="170" />
+</p>
+
 ### CertiProf Cybersecurity Awareness Professional (CAPC)
-<img width="220" alt="CAPC Badge" src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" />
+Certificación orientada a los fundamentos de ciberseguridad, gestión de riesgos, amenazas comunes y buenas prácticas para la protección de la información.
+
+### Ethical Hacker – Cisco Networking Academy
+Formación en ciberseguridad ofensiva que valida conocimientos en hacking ético, pentesting, evaluación de vulnerabilidades y mitigación de riesgos. La certificación incluye experiencia práctica en entornos simulados utilizando herramientas y técnicas empleadas por profesionales de seguridad informática.
