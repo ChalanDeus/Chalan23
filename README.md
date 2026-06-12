@@ -1,4 +1,3 @@
-<img width="600" height="600" alt="ethical-hacker" src="https://github.com/user-attachments/assets/bd620dc4-a17d-4571-8ac4-78c78e7e7626" />
 # 👋 Hola, soy Ernesto Vilches Chalan
 
 🎓 Estudiante de Programación en Duoc UC  
