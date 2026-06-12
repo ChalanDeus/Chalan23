@@ -1,3 +1,4 @@
+<img width="600" height="600" alt="ethical-hacker" src="https://github.com/user-attachments/assets/bd620dc4-a17d-4571-8ac4-78c78e7e7626" />
 # 👋 Hola, soy Ernesto Vilches Chalan
 
 🎓 Estudiante de Programación en Duoc UC  
@@ -58,15 +59,16 @@
 ## 🏆 Certificaciones
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" width="150" alt="CAPC Badge" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="URL_BADGE_CISCO" width="150" alt="Cisco Ethical Hacker Badge" />
+  <img src="https://github.com/user-attachments/assets/c520902a-ac0e-4e34-a172-b77e72fa9804" width="140" alt="CAPC Badge" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b3318dc1-3bba-4901-a0d2-d6aa9b206175" width="140" alt="Cisco Ethical Hacker Badge" />
 </p>
 
 ### Certificación Profesional en Concienciación sobre Ciberseguridad (CAPC)
 
 Certificación orientada a los fundamentos de ciberseguridad, gestión de riesgos, amenazas comunes y buenas prácticas para la protección de la información.
 
-### Hacker Ético – Academia de Redes de Cisco
+### Ethical Hacker – Cisco Networking Academy
 
 Formación en ciberseguridad ofensiva que valida conocimientos en hacking ético, pentesting, evaluación de vulnerabilidades y mitigación de riesgos. La certificación incluye experiencia práctica en entornos simulados utilizando herramientas y técnicas empleadas por profesionales de seguridad informática.
+
